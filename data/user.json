@@ -1,0 +1,184 @@
+
+[
+  {
+    "id": 1,
+    "name": "Aarav Sharma",
+    "strengths": ["Botany", "Organic Chemistry", "Algebra"],
+    "weaknesses": ["Mechanics", "Calculus"]
+  },
+  {
+    "id": 2,
+    "name": "Ananya Verma",
+    "strengths": ["Mechanics", "Calculus", "Optics"],
+    "weaknesses": ["Botany", "Organic Chemistry"]
+  },
+  {
+    "id": 3,
+    "name": "Rohan Gupta",
+    "strengths": ["Zoology", "Inorganic Chemistry", "Algebra"],
+    "weaknesses": ["Modern Physics", "Coordinate Geometry"]
+  },
+  {
+    "id": 4,
+    "name": "Priya Singh",
+    "strengths": ["Modern Physics", "Coordinate Geometry", "Calculus"],
+    "weaknesses": ["Zoology", "Inorganic Chemistry"]
+  },
+  {
+    "id": 5,
+    "name": "Aditya Kumar",
+    "strengths": ["Botany", "Mechanics", "Physical Chemistry"],
+    "weaknesses": ["Algebra", "Optics"]
+  },
+  {
+    "id": 6,
+    "name": "Sneha Patel",
+    "strengths": ["Calculus", "Organic Chemistry", "Optics"],
+    "weaknesses": ["Botany", "Mechanics"]
+  },
+  {
+    "id": 7,
+    "name": "Rahul Mehta",
+    "strengths": ["Mechanics", "Algebra", "Inorganic Chemistry"],
+    "weaknesses": ["Zoology", "Calculus"]
+  },
+  {
+    "id": 8,
+    "name": "Kavya Joshi",
+    "strengths": ["Zoology", "Calculus", "Modern Physics"],
+    "weaknesses": ["Physical Chemistry", "Coordinate Geometry"]
+  },
+  {
+    "id": 9,
+    "name": "Arjun Malhotra",
+    "strengths": ["Optics", "Coordinate Geometry", "Physical Chemistry"],
+    "weaknesses": ["Botany", "Algebra"]
+  },
+  {
+    "id": 10,
+    "name": "Ishita Agarwal",
+    "strengths": ["Botany", "Organic Chemistry", "Calculus"],
+    "weaknesses": ["Mechanics", "Modern Physics"]
+  },
+  {
+    "id": 11,
+    "name": "Vivek Yadav",
+    "strengths": ["Mechanics", "Modern Physics", "Algebra"],
+    "weaknesses": ["Botany", "Organic Chemistry"]
+  },
+  {
+    "id": 12,
+    "name": "Neha Kapoor",
+    "strengths": ["Zoology", "Physical Chemistry", "Coordinate Geometry"],
+    "weaknesses": ["Optics", "Calculus"]
+  },
+  {
+    "id": 13,
+    "name": "Karan Bansal",
+    "strengths": ["Calculus", "Mechanics", "Inorganic Chemistry"],
+    "weaknesses": ["Botany", "Coordinate Geometry"]
+  },
+  {
+    "id": 14,
+    "name": "Simran Kaur",
+    "strengths": ["Botany", "Optics", "Algebra"],
+    "weaknesses": ["Physical Chemistry", "Mechanics"]
+  },
+  {
+    "id": 15,
+    "name": "Yash Thakur",
+    "strengths": ["Modern Physics", "Organic Chemistry", "Calculus"],
+    "weaknesses": ["Zoology", "Algebra"]
+  },
+  {
+    "id": 16,
+    "name": "Mehak Jain",
+    "strengths": ["Zoology", "Mechanics", "Coordinate Geometry"],
+    "weaknesses": ["Organic Chemistry", "Optics"]
+  },
+  {
+    "id": 17,
+    "name": "Dev Sharma",
+    "strengths": ["Physical Chemistry", "Algebra", "Optics"],
+    "weaknesses": ["Botany", "Modern Physics"]
+  },
+  {
+    "id": 18,
+    "name": "Tanya Gupta",
+    "strengths": ["Calculus", "Botany", "Modern Physics"],
+    "weaknesses": ["Inorganic Chemistry", "Mechanics"]
+  },
+  {
+    "id": 19,
+    "name": "Mohit Saini",
+    "strengths": ["Mechanics", "Organic Chemistry", "Coordinate Geometry"],
+    "weaknesses": ["Zoology", "Calculus"]
+  },
+  {
+    "id": 20,
+    "name": "Riya Srivastava",
+    "strengths": ["Zoology", "Inorganic Chemistry", "Algebra"],
+    "weaknesses": ["Optics", "Physical Chemistry"]
+  },
+  {
+    "id": 21,
+    "name": "Harsh Vardhan",
+    "strengths": ["Optics", "Calculus", "Physical Chemistry"],
+    "weaknesses": ["Botany", "Modern Physics"]
+  },
+  {
+    "id": 22,
+    "name": "Pooja Mishra",
+    "strengths": ["Botany", "Coordinate Geometry", "Organic Chemistry"],
+    "weaknesses": ["Mechanics", "Inorganic Chemistry"]
+  },
+  {
+    "id": 23,
+    "name": "Saksham Verma",
+    "strengths": ["Modern Physics", "Mechanics", "Algebra"],
+    "weaknesses": ["Zoology", "Organic Chemistry"]
+  },
+  {
+    "id": 24,
+    "name": "Nidhi Chauhan",
+    "strengths": ["Zoology", "Calculus", "Optics"],
+    "weaknesses": ["Physical Chemistry", "Coordinate Geometry"]
+  },
+  {
+    "id": 25,
+    "name": "Manish Rawat",
+    "strengths": ["Inorganic Chemistry", "Mechanics", "Coordinate Geometry"],
+    "weaknesses": ["Botany", "Calculus"]
+  },
+  {
+    "id": 26,
+    "name": "Aditi Saxena",
+    "strengths": ["Botany", "Physical Chemistry", "Modern Physics"],
+    "weaknesses": ["Algebra", "Optics"]
+  },
+  {
+    "id": 27,
+    "name": "Abhishek Pandey",
+    "strengths": ["Algebra", "Calculus", "Mechanics"],
+    "weaknesses": ["Zoology", "Organic Chemistry"]
+  },
+  {
+    "id": 28,
+    "name": "Shreya Agarwal",
+    "strengths": ["Organic Chemistry", "Optics", "Coordinate Geometry"],
+    "weaknesses": ["Botany", "Mechanics"]
+  },
+  {
+    "id": 29,
+    "name": "Akash Tiwari",
+    "strengths": ["Modern Physics", "Physical Chemistry", "Algebra"],
+    "weaknesses": ["Zoology", "Calculus"]
+  },
+  {
+    "id": 30,
+    "name": "Muskan Yadav",
+    "strengths": ["Zoology", "Inorganic Chemistry", "Calculus"],
+    "weaknesses": ["Mechanics", "Modern Physics"]
+  }
+]
+

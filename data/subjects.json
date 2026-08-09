@@ -1,0 +1,25 @@
+{
+    "Biology": [
+        "Botany",
+        "Zoology"
+    ],
+    "Physics": [
+        "Mechanics",
+        "Thermal Physics",
+        "Electricity & Magnetism",
+        "Optics",
+        "Modern Physics"
+    ],
+    "Chemistry": [
+        "Physical Chemistry",
+        "Inorganic Chemistry",
+        "Organic Chemistry",
+        "Other"
+    ],
+    "Mathematics": [
+        "Algebra",
+        "Calculus",
+        "Coordinate Geometry",
+        "Other"
+    ]
+}
